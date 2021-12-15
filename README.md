@@ -3,10 +3,10 @@
 CS2212 (2021) Course Project: 
 
 Team Members:
-Matthew Nadarajah 
-Nawal Abdo
-Ahmed Jamal Jaffar
-Kelvin Wu
+Matthew Nadarajah,
+ Nawal Abdo,
+ Ahmed Jamal Jaffar,
+ Kelvin Wu
 
 Please run Login_UI.java in /src/group21 to start the program. 
 
